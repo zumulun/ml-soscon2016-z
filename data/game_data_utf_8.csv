@@ -198,4 +198,68 @@ idx,나이,프로모션참여수,식별자,일평균게임플레이분,90일내�
 197,36,0,99374,20,10,1,20,웹,White,Male,0,0,40,United-States,Y
 198,40,50,56795,60,14,15,400,웹,White,Female,14084,0,55,United-States,N
 199,35,0,138992,60,14,10,300,친구소개,White,Male,7298,0,40,United-States,N
-200,24,3,32921,10,9,15,10,웹,White,Male,
+200,24,3,32921,10,9,15,10,웹,White,Male,0,0,40,United-States,Y
+201,26,0,397317,60,14,15,300,웹,White,Female,0,1876,40,United-States,Y
+202,19,10,170653,10,9,15,100,버스광고,White,Male,0,0,40,Italy,Y
+203,51,0,259323,70,13,10,400,앱프로모션,White,Male,0,0,50,United-States,N
+204,42,40,254817,20,10,15,300,웹,White,Female,0,1340,40,United-States,Y
+205,37,20,48211,10,9,1,800,친구소개,White,Female,0,0,35,United-States,Y
+206,18,0,140164,3,7,15,10,버스광고,White,Female,0,0,40,United-States,Y
+207,36,0,128757,70,13,10,200,앱프로모션,Black,Male,7298,0,36,United-States,N
+208,35,0,36270,10,9,1,20,웹,White,Male,0,0,60,United-States,Y
+209,58,1,210563,10,9,10,10,포털광고,White,Female,15024,0,35,United-States,N
+210,17,0,65368,3,7,15,10,버스광고,White,Female,0,0,12,United-States,Y
+211,44,40,160943,10,9,10,150,앱프로모션,Black,Male,0,0,40,United-States,Y
+212,37,0,208358,10,9,10,20,앱프로모션,White,Male,0,0,40,United-States,N
+213,35,0,153790,20,10,15,10,웹,Amer-Indian-Eskimo,Female,0,0,40,United-States,Y
+214,60,0,85815,10,9,10,20,앱프로모션,Asian-Pac-Islander,Male,0,0,40,United-States,Y
+215,54,1,125417,30,4,10,0,앱프로모션,White,Male,0,0,40,United-States,N
+216,37,0,635913,70,13,15,400,웹,Black,Male,0,0,60,United-States,N
+217,50,0,313321,120,12,1,10,웹,White,Female,0,0,40,United-States,Y
+218,38,0,182609,70,13,10,10,앱프로모션,White,Male,0,0,50,Poland,Y
+219,45,0,109434,70,13,10,300,앱프로모션,White,Male,0,0,55,United-States,Y
+220,25,0,255004,5,6,15,20,웹,White,Male,0,0,40,United-States,Y
+221,31,0,197860,20,10,10,1000,앱프로모션,White,Male,0,0,40,United-States,Y
+222,64,10,187656,100,2,1,100,웹,White,Male,0,0,40,United-States,Y
+223,90,0,51744,10,9,15,200,웹,Black,Male,0,2206,40,United-States,Y
+224,54,0,176681,10,9,10,800,앱프로모션,Black,Male,0,0,20,United-States,Y
+225,53,40,140359,40,1,15,0,웹,White,Female,0,0,35,United-States,Y
+226,18,0,243313,10,9,15,10,버스광고,White,Female,0,0,40,United-States,Y
+227,60,10,24215,5,6,1,100,웹,Amer-Indian-Eskimo,Female,0,0,10,United-States,Y
+228,66,3,167687,10,9,10,900,앱프로모션,White,Male,1409,0,50,United-States,Y
+229,75,0,314209,110,11,25,800,웹,White,Female,0,0,20,Columbia,Y
+230,65,0,176796,10,9,1,800,웹,White,Female,0,0,40,United-States,Y
+231,35,0,538583,3,7,5,150,웹,Black,Male,3674,0,40,United-States,Y
+232,41,0,130408,10,9,1,10,친구소개,Black,Female,0,0,38,United-States,Y
+233,25,0,159732,20,10,15,800,웹,White,Male,0,0,42,United-States,Y
+234,33,0,110978,20,10,1,20,친구소개,Other,Female,0,0,40,United-States,Y
+235,28,0,76714,1,15,15,300,웹,White,Male,0,0,55,United-States,N
+236,59,20,268700,10,9,10,200,앱프로모션,White,Male,0,0,40,United-States,Y
+237,40,20,170525,20,10,15,800,웹,White,Female,0,0,38,United-States,Y
+238,41,0,180138,70,13,10,400,앱프로모션,White,Male,0,0,50,Iran,N
+239,38,40,115076,60,14,10,400,앱프로모션,White,Male,0,0,70,United-States,N
+240,23,0,115458,10,9,15,150,버스광고,White,Male,0,0,40,United-States,Y
+241,40,0,347890,70,13,10,300,앱프로모션,White,Male,0,0,40,United-States,N
+242,41,3,196001,10,9,10,200,포털광고,White,Female,0,0,20,United-States,Y
+243,24,20,273905,120,12,10,500,앱프로모션,White,Male,0,0,50,United-States,Y
+244,20,10,119156,20,10,15,100,버스광고,White,Male,0,0,20,United-States,Y
+245,38,0,179488,20,10,1,20,웹,White,Male,0,1741,40,United-States,Y
+246,56,0,203580,10,9,10,800,앱프로모션,White,Male,0,0,35,?,Y
+247,58,0,236596,10,9,10,800,앱프로모션,White,Male,0,0,45,United-States,N
+248,32,0,183916,10,9,15,200,웹,White,Female,0,0,34,United-States,Y
+249,40,0,207578,120,12,10,700,앱프로모션,White,Male,0,1977,60,United-States,N
+250,45,0,153141,10,9,10,800,앱프로모션,White,Male,0,0,40,?,Y
+251,41,0,112763,1,15,10,300,포털광고,White,Female,0,0,40,United-States,N
+252,42,0,390781,70,13,10,800,포털광고,Black,Female,0,0,40,United-States,Y
+253,59,40,171328,5,6,25,200,친구소개,Black,Female,0,0,30,United-States,Y
+254,19,40,27382,20,10,15,800,버스광고,White,Male,0,0,40,United-States,Y
+255,58,0,259014,20,10,15,150,웹,White,Male,0,0,20,United-States,Y
+256,42,3,303044,10,9,10,900,앱프로모션,Asian-Pac-Islander,Male,0,0,40,Cambodia,N
+257,20,0,117789,10,9,15,200,버스광고,White,Female,0,0,40,United-States,Y
+258,32,0,172579,10,9,5,200,웹,White,Female,0,0,30,United-States,Y
+259,45,0,187666,110,11,25,400,웹,White,Female,0,0,45,United-States,Y
+260,50,0,204518,30,4,1,20,웹,White,Male,0,0,40,United-States,Y
+261,36,0,150042,70,13,1,300,버스광고,White,Female,0,0,40,United-States,Y
+262,45,0,98092,10,9,10,10,앱프로모션,White,Male,0,0,60,United-States,Y
+263,17,0,245918,3,7,15,200,버스광고,White,Male,0,0,12,United-States,Y
+264,59,0,146013,20,10,10,10,앱프로모션,White,Male,4064,0,40,United-States,Y
