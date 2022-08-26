@@ -9665,4 +9665,63 @@ idx,나이,프로모션참여수,식별자,일평균게임플레이분,90일내�
 9664,35,0,186845,1,15,10,300,앱프로모션,White,Male,0,0,45,United-States,N
 9665,52,0,159908,90,8,15,0,웹,White,Male,0,0,40,United-States,Y
 9666,41,0,162189,10,9,15,0,버스광고,White,Female,1831,0,40,Peru,Y
-9667,29,0,128509,10,9,30,0,웹,White,F
+9667,29,0,128509,10,9,30,0,웹,White,Female,0,0,38,El-Salvador,Y
+9668,23,0,143032,60,14,15,300,버스광고,White,Female,0,0,36,United-States,Y
+9669,31,0,382368,3,7,10,20,앱프로모션,White,Male,0,0,40,United-States,Y
+9670,40,0,210013,10,9,10,150,앱프로모션,White,Male,0,0,50,United-States,Y
+9671,19,0,293928,10,9,15,800,버스광고,White,Female,0,0,20,United-States,Y
+9672,21,0,208503,20,10,15,150,버스광고,White,Male,0,0,10,United-States,Y
+9673,37,20,191841,70,13,15,800,웹,White,Female,8614,0,40,United-States,N
+9674,49,3,355978,1,15,10,300,앱프로모션,White,Male,99999,0,35,United-States,N
+9675,64,40,202738,10,9,10,800,포털광고,White,Female,0,0,35,United-States,Y
+9676,37,40,144322,110,11,15,800,웹,White,Female,0,0,43,United-States,Y
+9677,70,3,155141,70,13,10,20,앱프로모션,White,Male,0,2377,12,United-States,N
+9678,22,0,160120,5,6,15,150,버스광고,Asian-Pac-Islander,Male,0,0,30,United-States,Y
+9679,29,1,190450,10,9,10,10,앱프로모션,Asian-Pac-Islander,Male,0,0,40,Germany,Y
+9680,37,0,212900,10,9,10,20,앱프로모션,White,Male,0,0,40,United-States,Y
+9681,29,0,115677,70,13,15,700,웹,White,Male,0,0,40,United-States,Y
+9682,38,0,252250,3,7,1,0,웹,White,Male,0,0,65,United-States,Y
+9683,27,0,212041,10,9,15,20,웹,White,Male,0,0,50,United-States,Y
+9684,58,20,198145,70,13,10,800,앱프로모션,White,Male,0,0,35,United-States,N
+9685,60,40,113658,20,10,10,800,포털광고,White,Female,0,0,35,United-States,Y
+9686,20,0,32426,20,10,15,10,웹,White,Male,0,0,25,United-States,Y
+9687,51,0,98791,20,10,10,10,앱프로모션,White,Male,0,0,40,United-States,N
+9688,37,0,203828,0,5,10,150,앱프로모션,White,Male,0,0,65,United-States,Y
+9689,22,20,186634,90,8,15,400,웹,White,Male,0,0,50,United-States,N
+9690,56,3,125147,5,6,10,150,앱프로모션,White,Male,0,0,60,United-States,Y
+9691,26,0,247455,70,13,10,10,포털광고,White,Female,5178,0,42,United-States,N
+9692,19,0,97215,20,10,5,10,친구소개,White,Female,0,0,25,United-States,Y
+9693,37,0,330826,110,11,10,300,포털광고,White,Female,0,0,30,United-States,Y
+9694,27,0,200802,20,10,15,700,웹,White,Female,0,0,40,United-States,Y
+9695,27,0,156266,10,9,15,10,버스광고,Amer-Indian-Eskimo,Male,0,0,20,United-States,Y
+9696,52,3,72257,20,10,10,10,앱프로모션,White,Male,0,0,50,United-States,Y
+9697,45,0,363087,10,9,5,0,친구소개,Black,Female,0,0,40,United-States,Y
+9698,28,0,25955,20,10,15,20,버스광고,Amer-Indian-Eskimo,Male,0,0,40,United-States,Y
+9699,20,0,334633,10,9,1,800,웹,White,Female,0,0,40,United-States,Y
+9700,28,0,109162,60,14,15,300,웹,White,Female,0,0,50,United-States,Y
+9701,44,0,569761,110,11,10,1000,앱프로모션,Black,Male,0,0,40,United-States,Y
+9702,30,0,209900,70,13,10,20,앱프로모션,White,Male,0,0,40,United-States,Y
+9703,26,20,272986,120,12,15,800,버스광고,Black,Female,0,0,8,United-States,Y
+9704,55,10,52267,60,14,10,100,앱프로모션,White,Male,0,0,18,United-States,Y
+9705,46,0,82946,10,9,15,10,웹,White,Female,0,0,40,United-States,Y
+9706,51,0,104651,70,13,10,20,앱프로모션,White,Male,0,0,50,United-States,Y
+9707,25,40,58441,70,13,15,300,웹,White,Female,0,0,40,United-States,Y
+9708,43,40,269733,10,9,5,200,웹,White,Male,0,0,40,United-States,Y
+9709,19,10,128453,10,9,15,100,버스광고,White,Female,0,0,28,United-States,Y
+9710,36,0,179468,10,9,1,20,웹,White,Male,0,0,40,United-States,Y
+9711,36,0,183081,20,10,15,400,웹,White,Male,0,0,40,United-States,Y
+9712,48,0,102938,70,13,15,200,친구소개,Asian-Pac-Islander,Female,0,0,40,Vietnam,Y
+9713,30,10,157289,3,7,15,100,친구소개,White,Male,0,0,40,United-States,Y
+9714,24,0,359828,70,13,10,300,앱프로모션,White,Male,0,0,44,United-States,N
+9715,30,0,155659,10,9,1,200,친구소개,White,Female,0,0,36,United-States,Y
+9716,24,0,585203,70,13,10,400,포털광고,White,Female,7688,0,45,United-States,N
+9717,62,0,173601,70,13,10,0,앱프로모션,White,Male,0,0,40,United-States,Y
+9718,41,3,214541,10,9,1,150,웹,White,Male,0,1590,40,United-States,Y
+9719,49,3,163352,1,15,10,300,앱프로모션,White,Male,0,0,85,United-States,N
+9720,36,3,153976,10,9,10,150,앱프로모션,White,Male,0,0,50,United-States,Y
+9721,47,40,247676,60,14,1,300,친구소개,White,Female,5455,0,45,United-States,Y
+9722,49,20,155372,60,14,1,300,웹,White,Female,0,0,40,United-States,Y
+9723,52,0,329733,20,10,15,400,웹,White,Male,0,0,40,United-States,Y
+9724,52,0,162576,120,12,10,700,앱프로모션,White,Male,0,0,40,United-States,N
+9725,26,0,176520,10,9,15,800,웹,White,Male,0,0,53,United-States,Y
+9726,51,20,226885,10,9,15,150,웹,White,Male,0,0,40,United-S
