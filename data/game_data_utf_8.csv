@@ -28743,4 +28743,62 @@ idx,나이,프로모션참여수,식별자,일평균게임플레이분,90일내�
 28742,35,3,256992,80,3,10,200,포털광고,White,Female,0,0,15,Mexico,Y
 28743,41,0,118721,90,8,1,800,웹,Amer-Indian-Eskimo,Male,0,0,40,United-States,Y
 28744,30,0,151989,110,11,10,700,포털광고,White,Female,0,0,40,United-States,Y
-28745,25,
+28745,25,0,109112,10,9,10,0,앱프로모션,White,Male,0,0,48,United-States,Y
+28746,35,0,589809,20,10,15,400,웹,White,Male,13550,0,60,United-States,N
+28747,38,0,172538,70,13,10,400,앱프로모션,White,Male,15024,0,50,United-States,N
+28748,34,20,318982,60,14,10,0,앱프로모션,White,Male,0,1848,40,United-States,N
+28749,48,0,204629,60,14,10,400,앱프로모션,White,Male,0,0,50,United-States,N
+28750,50,3,99894,80,3,15,700,웹,Asian-Pac-Islander,Female,0,0,15,United-States,Y
+28751,19,0,369463,10,9,15,800,버스광고,White,Female,0,0,40,United-States,Y
+28752,51,0,79324,20,10,10,10,앱프로모션,White,Male,0,0,40,United-States,Y
+28753,39,0,61178,70,13,1,800,친구소개,White,Male,0,0,40,United-States,Y
+28754,20,0,204226,3,7,15,200,버스광고,White,Female,0,0,40,United-States,Y
+28755,17,0,183110,3,7,15,1000,버스광고,White,Male,0,0,16,United-States,Y
+28756,42,0,96321,20,10,10,10,앱프로모션,White,Male,0,0,50,United-States,N
+28757,25,0,167031,20,10,15,200,친구소개,Other,Female,0,0,25,Ecuador,Y
+28758,36,0,108997,10,9,1,800,친구소개,White,Female,0,0,40,United-States,Y
+28759,65,0,176796,50,16,25,300,웹,White,Female,0,0,40,United-States,Y
+28760,32,3,134737,70,13,10,0,앱프로모션,White,Male,0,0,70,United-States,N
+28761,33,1,49795,70,13,15,300,웹,White,Male,0,0,45,United-States,Y
+28762,32,20,131588,20,10,15,700,친구소개,Black,Female,0,0,20,United-States,Y
+28763,25,0,307643,10,9,10,150,앱프로모션,White,Male,0,0,40,United-States,Y
+28764,41,40,351350,20,10,1,500,친구소개,White,Female,0,0,40,United-States,Y
+28765,44,0,260761,10,9,10,20,앱프로모션,White,Male,0,0,40,United-States,N
+28766,72,0,156310,5,6,10,200,앱프로모션,White,Male,2414,0,12,United-States,Y
+28767,36,0,207789,10,9,1,400,웹,White,Male,0,0,52,United-States,Y
+28768,67,3,252842,10,9,10,900,앱프로모션,White,Male,1797,0,20,United-States,Y
+28769,28,0,294936,10,9,10,150,앱프로모션,White,Male,4064,0,45,United-States,Y
+28770,24,0,196269,3,7,10,1000,앱프로모션,Other,Male,0,0,40,United-States,Y
+28771,17,0,46402,30,4,15,10,버스광고,White,Male,0,0,8,United-States,Y
+28772,32,3,267161,70,13,1,400,친구소개,Black,Female,0,0,30,United-States,Y
+28773,67,0,160456,3,7,25,200,웹,White,Female,0,0,40,United-States,Y
+28774,21,10,123983,20,10,15,100,친구소개,Asian-Pac-Islander,Male,0,0,10,Vietnam,Y
+28775,51,0,123053,60,14,10,300,앱프로모션,Asian-Pac-Islander,Male,5013,0,40,India,Y
+28776,32,0,426467,100,2,15,20,웹,White,Male,3674,0,40,Guatemala,Y
+28777,39,0,269323,20,10,10,400,앱프로모션,White,Male,0,0,40,United-States,N
+28778,18,3,42857,20,10,15,20,웹,White,Female,0,0,35,United-States,Y
+28779,50,3,183915,70,13,10,20,앱프로모션,White,Male,0,0,45,United-States,N
+28780,24,0,211391,5,6,15,10,웹,White,Female,0,0,15,United-States,Y
+28781,21,40,193130,20,10,15,800,웹,White,Female,0,0,40,United-States,Y
+28782,24,0,86745,70,13,15,800,친구소개,Asian-Pac-Islander,Female,0,0,16,United-States,Y
+28783,34,0,226525,110,11,15,200,버스광고,White,Male,0,0,40,United-States,Y
+28784,68,10,270339,5,6,10,100,앱프로모션,White,Male,0,0,35,United-States,Y
+28785,49,3,343742,5,6,15,20,웹,Black,Male,0,0,32,United-States,Y
+28786,50,0,150975,10,9,1,0,웹,Amer-Indian-Eskimo,Female,0,0,40,United-States,Y
+28787,33,0,207301,120,12,1,400,버스광고,White,Female,0,0,40,United-States,Y
+28788,18,0,135924,20,10,15,800,버스광고,White,Male,0,0,40,United-States,Y
+28789,45,0,184277,110,11,1,800,친구소개,White,Female,0,0,55,United-States,N
+28790,20,0,142233,10,9,15,10,웹,White,Female,0,0,35,United-States,Y
+28791,46,1,120902,70,13,10,400,앱프로모션,White,Male,3103,0,37,United-States,N
+28792,64,40,158412,10,9,25,800,웹,White,Female,0,0,40,United-States,Y
+28793,39,0,126161,50,16,15,300,웹,White,Male,0,0,45,United-States,Y
+28794,35,0,149347,10,9,15,20,웹,White,Male,0,0,70,United-States,Y
+28795,21,0,322674,20,10,15,200,웹,White,Male,0,0,32,United-States,Y
+28796,29,0,55390,120,12,15,700,웹,White,Male,0,0,45,United-States,Y
+28797,38,20,200904,70,13,10,400,포털광고,Black,Female,0,0,30,United-States,N
+28798,45,0,166056,10,9,1,200,친구소개,White,Female,0,0,40,United-States,Y
+28799,30,3,116666,60,14,1,300,웹,Asian-Pac-Islander,Male,0,0,50,India,N
+28800,41,0,168324,20,10,10,800,포털광고,White,Female,0,0,40,United-States,N
+28801,37,0,121772,10,9,15,20,웹,Asian-Pac-Islander,Male,0,0,40,Hong,Y
+28802,45,0,126889,70,13,10,10,앱프로모션,White,Male,0,1887,60,United-States,N
+28803,20,10,401690,10,9,15,100,웹,White,Female,0,0,30,United-States
